@@ -51,7 +51,7 @@ if not df_filtrado.empty:
     salario_maximo = df_filtrado['usd'].max()
     total_registros = df_filtrado.shape[0]
     cargo_mais_frequente = df_filtrado["cargo"].mode()[0]
-   else:
+else:
     salario_medio, salario_maximo, total_registros, cargo_mais_frequente = 0, 0, 0, ""
 
 col1, col2, col3, col4 = st.columns(4)
