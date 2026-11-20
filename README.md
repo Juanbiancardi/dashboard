@@ -66,7 +66,7 @@ dashboard/
 
 ## 📚 Sobre o projeto
 
-Este projeto foi desenvolvido durante a **Imersão em Python da [Alura](https://www.alura.com.br/)**, como forma de praticar análise e visualização de dados. O código segue a estrutura ensinada na aula, e eu estudei cada parte do funcionamento.
+Este projeto foi desenvolvido durante a **Imersão em Python da [Alura](https://www.alura.com.br/)**, como forma de praticar análise e visualização de dados. O código segue a estrutura ensinada na aula, estou revisando cada parte do código para aprofundar meu entendimento.
 
 Os dados vêm do repositório [vqrca/dashboard_salarios_dados](https://github.com/vqrca/dashboard_salarios_dados), e o arquivo é lido diretamente de lá.
 
